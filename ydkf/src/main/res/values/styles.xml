@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="android:listDivider">@drawable/divider_bg</item>-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--所有标题布局的最外层的相对布局-->
+    <style name="TitleLayout">
+        <item name="android:paddingTop">20dp</item>
+        <item name="android:layout_height">61dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@mipmap/title_bg2</item>
+    </style>
+
+    <!--所有标题布局的返回箭头照片-->
+    <style name="titleLayoutBackArrow">
+        <item name="android:paddingLeft">18dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:src">@drawable/back_selector</item>
+        <item name="android:paddingRight">20dp</item>
+    </style>
+
+    <!--所有标题里面的中间的那个文字-->
+    <style name="TitleMidText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="registerAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppBackTheme" parent="@style/registerAppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+
+</resources>
