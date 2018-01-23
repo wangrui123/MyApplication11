@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/com.hencoder.com.hencoder.hencoderpracticedraw5" />
+            <option value="$PROJECT_DIR$/fragment_viewpager" />
+            <option value="$PROJECT_DIR$/fragmentaddtest" />
+            <option value="$PROJECT_DIR$/hy_yysb" />
+            <option value="$PROJECT_DIR$/hy_yysb2" />
+            <option value="$PROJECT_DIR$/imageviewtest" />
+            <option value="$PROJECT_DIR$/javatest" />
+            <option value="$PROJECT_DIR$/kotlindemo" />
+            <option value="$PROJECT_DIR$/listviewdemo" />
+            <option value="$PROJECT_DIR$/magicfilter" />
+            <option value="$PROJECT_DIR$/mscV5PlusDemo" />
+            <option value="$PROJECT_DIR$/mvpdemo" />
+            <option value="$PROJECT_DIR$/myapplication2" />
+            <option value="$PROJECT_DIR$/pingmushipei" />
+            <option value="$PROJECT_DIR$/practivedraw" />
+            <option value="$PROJECT_DIR$/practivedraw2" />
+            <option value="$PROJECT_DIR$/practivedraw5" />
+            <option value="$PROJECT_DIR$/practivedraw6" />
+            <option value="$PROJECT_DIR$/practivedraw7" />
+            <option value="$PROJECT_DIR$/recyclerview" />
+            <option value="$PROJECT_DIR$/recyelerview2" />
+            <option value="$PROJECT_DIR$/updater" />
+            <option value="$PROJECT_DIR$/vediodemo" />
+            <option value="$PROJECT_DIR$/vediodemo2" />
+            <option value="$PROJECT_DIR$/webview_agentweb" />
+            <option value="$PROJECT_DIR$/xlsx" />
+            <option value="$PROJECT_DIR$/ydkf" />
+            <option value="$PROJECT_DIR$/zdykj" />
+            <option value="$PROJECT_DIR$/zhibo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.hencoder.com.hencoder.hencoderpracticedraw5/com.hencoder.com.hencoder.hencoderpracticedraw5.iml" filepath="$PROJECT_DIR$/com.hencoder.com.hencoder.hencoderpracticedraw5/com.hencoder.com.hencoder.hencoderpracticedraw5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_viewpager/fragment_viewpager.iml" filepath="$PROJECT_DIR$/fragment_viewpager/fragment_viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentaddtest/fragmentaddtest.iml" filepath="$PROJECT_DIR$/fragmentaddtest/fragmentaddtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy_yysb/hy_yysb.iml" filepath="$PROJECT_DIR$/hy_yysb/hy_yysb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy_yysb2/hy_yysb2.iml" filepath="$PROJECT_DIR$/hy_yysb2/hy_yysb2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageviewtest/imageviewtest.iml" filepath="$PROJECT_DIR$/imageviewtest/imageviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javatest/javatest.iml" filepath="$PROJECT_DIR$/javatest/javatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlindemo/kotlindemo.iml" filepath="$PROJECT_DIR$/kotlindemo/kotlindemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewdemo/listviewdemo.iml" filepath="$PROJECT_DIR$/listviewdemo/listviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magicfilter/magicfilter.iml" filepath="$PROJECT_DIR$/magicfilter/magicfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mscV5PlusDemo/mscV5PlusDemo.iml" filepath="$PROJECT_DIR$/mscV5PlusDemo/mscV5PlusDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpdemo/mvpdemo.iml" filepath="$PROJECT_DIR$/mvpdemo/mvpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmushipei/pingmushipei.iml" filepath="$PROJECT_DIR$/pingmushipei/pingmushipei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practivedraw/practivedraw.iml" filepath="$PROJECT_DIR$/practivedraw/practivedraw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practivedraw2/practivedraw2.iml" filepath="$PROJECT_DIR$/practivedraw2/practivedraw2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practivedraw5/practivedraw5.iml" filepath="$PROJECT_DIR$/practivedraw5/practivedraw5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practivedraw6/practivedraw6.iml" filepath="$PROJECT_DIR$/practivedraw6/practivedraw6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practivedraw7/practivedraw7.iml" filepath="$PROJECT_DIR$/practivedraw7/practivedraw7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyelerview2/recyelerview2.iml" filepath="$PROJECT_DIR$/recyelerview2/recyelerview2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updater/updater.iml" filepath="$PROJECT_DIR$/updater/updater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vediodemo/vediodemo.iml" filepath="$PROJECT_DIR$/vediodemo/vediodemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vediodemo2/vediodemo2.iml" filepath="$PROJECT_DIR$/vediodemo2/vediodemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webview_agentweb/webview_agentweb.iml" filepath="$PROJECT_DIR$/webview_agentweb/webview_agentweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xlsx/xlsx.iml" filepath="$PROJECT_DIR$/xlsx/xlsx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ydkf/ydkf.iml" filepath="$PROJECT_DIR$/ydkf/ydkf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zdykj/zdykj.iml" filepath="$PROJECT_DIR$/zdykj/zdykj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhibo/zhibo.iml" filepath="$PROJECT_DIR$/zhibo/zhibo.iml" />
+    </modules>
+  </component>
+</project>
