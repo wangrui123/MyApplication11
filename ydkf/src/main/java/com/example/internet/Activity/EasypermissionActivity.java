@@ -10,6 +10,7 @@ public class EasypermissionActivity extends BaseActivity {
     @Override
     public void setOnClick() {
 
+
     }
 
     @Override
